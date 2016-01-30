@@ -1,0 +1,14 @@
+layout_spectrum: 0.3301913
+typography_spectrum: 0.5948749
+color:
+  saturation: 0.9083242
+  lightness: 0.5838886
+  brandStrength: 0.4451016
+  rhythmicContrast: 0.7636921
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+name: 3D Printing Blog
