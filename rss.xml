@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[3D Printing Blog by James Armstrong]]></title>
         <description><![CDATA[3D Printing Blog by James Armstrong]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/3d-printing-blog/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 31 Jan 2016 05:18:34 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 31 Jan 2016 05:25:05 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/3d-printing-blog/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c4ce6192-7d67-4856-a3cd-8858d602af72.png">]]></description>
-            <link>undefinedb9a5437f-0a8e-4c7e-a7c9-05558d06a6ef/index.html</link>
+            <title><![CDATA[CoreXY with 13" Bed]]></title>
+            <description><![CDATA[<article><h1>CoreXY with 13" Bed</h1><p>My new CoreXY 3d printer is coming along nicely thanks to Jetguy's help. This one features a 13"x13" bed. It is based on the one he designed for The Great Fredini which is used for printing some of his artwork. See: http://www.3ders.org/articles/20160128-the-great-fredini-amazing-glass-figures-made-with-lost-3d-printed-pla-casting.html</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7abd442b-f221-4518-aa05-1ee42917b730.jpg"></article>]]></description>
+            <link>https://thegrid.ai/3d-printing-blog/b9a5437f-0a8e-4c7e-a7c9-05558d06a6ef/index.html</link>
             <guid isPermaLink="false">b9a5437f-0a8e-4c7e-a7c9-05558d06a6ef</guid>
-            <pubDate>Sun, 31 Jan 2016 05:17:39 GMT</pubDate>
+            <pubDate>Sun, 31 Jan 2016 05:24:02 GMT</pubDate>
         </item>
     </channel>
 </rss>
