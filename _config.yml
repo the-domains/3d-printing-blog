@@ -1,5 +1,30 @@
-title: 3D Printing Blog by James Armstrong
-purpose: []
+typography_spectrum: 0.5948749
+color:
+  saturation: 0.9083242
+  brandStrength: 0.375
+  lightness: 0.5838886
+  brandColors:
+    - '#020202'
+    - '#FFFFFF'
+    - '#0F778F'
+    - '#41A2CC'
+    - '#8DE2F8'
+  rhythmicContrast: 0.7636921
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.8093448
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: 3D Printing Blog
+cta:
+  bucket: null
+  version: null
+  domain: null
+favicon: null
 collections:
   - index:
       path: /
@@ -12,30 +37,6 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-color:
-  saturation: 0.9083242
-  brandStrength: 0.375
-  lightness: 0.5838886
-  brandColors:
-    - '#020202'
-    - '#FFFFFF'
-    - '#0F778F'
-    - '#41A2CC'
-    - '#8DE2F8'
-  rhythmicContrast: 0.7636921
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-name: 3D Printing Blog
-favicon: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.5948749
-layout_spectrum: 0.8093448
+title: 3D Printing Blog by James Armstrong
+description: Where filament enters and magic comes out..
+purpose: []
